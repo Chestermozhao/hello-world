@@ -1,2 +1,4 @@
 # hello-world
-i am a rookie of programming.
+hello gits friend:
+
+i wanna be a python master!!!
